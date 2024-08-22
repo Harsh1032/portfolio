@@ -73,19 +73,19 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
+    title: "Keystate - Want to find your Dream Home?",
+    des: "Simplify the process for agents and customers to update, look, find, and sell their properties.",
+    img: '/Keystate3.png',
+    iconLists: ["/re.svg", "/tail.svg", "/mongodb.svg", "/nodejs.png", "/firebase.svg"],
+    link: "poetic-profiterole-0d157a.netlify.app",
+  },
+  {
+    id: 2,
     title: "AspieByte",
     des: "Developed a specialized learning platform tailored specifically for individuals with autism spectrum disorder, integrating a stress detection mechanism that halts study sessions upon reaching predefined stress thresholds.",
     img: '/AspieByte3.jpg',
     iconLists: ["/re.svg", "/tail.svg",  "/mongodb.svg", "/nodejs.png", "/python.svg"],
     link: "github.com/Harsh1032/aspieByte",
-  },
-  {
-    id: 2,
-    title: "Keystate - Want to find your Dream Home?",
-    des: "Simplify the process for agents and customers to update, look, find, and sell their properties.",
-    img: '/Keystate3.png',
-    iconLists: ["/re.svg", "/tail.svg", "/mongodb.svg", "/nodejs.png", "/firebase.svg"],
-    link: "github.com/Harsh1032/KeyState",
   },
   {
     id: 3,

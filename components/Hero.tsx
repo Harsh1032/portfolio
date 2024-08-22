@@ -33,7 +33,7 @@ const Hero = () => {
             words = "Explore My Journey: Crafting Innovative Solutions"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi I'm Harsh, a Full-Stack Developer based in UAE. 
+            Hi I&apos;m Harsh, a Full-Stack Developer based in UAE. 
           </p>
           <a href="#projects">
             <MagicButton 
