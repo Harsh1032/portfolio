@@ -77,7 +77,7 @@ export const projects = [
     des: "Plume allows you to have conversations with any PDF document. Simply upload your file and start asking questions right away",
     img: "/thumbnail.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg",],
-    link: "https://plumeflower.netlify.app/",
+    link: "plumeflower.netlify.app",
   },
   {
     id: 2,

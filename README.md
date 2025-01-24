@@ -14,7 +14,7 @@
 
   <h3 align="center">A Modern Next.js Portfolio</h3>
 
-  <p class="has-line-data" data-line-start="4" data-line-end="5"> https://plumeflower.netlify.app/</p>
+  <p class="has-line-data" data-line-start="4" data-line-end="5"> https://harshc-portfolio.netlify.app/</p>
 
 </div>
 
