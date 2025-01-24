@@ -73,6 +73,14 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
+    title: "Plume - A Modern Fullstack SaaS-Platform",
+    des: "Plume allows you to have conversations with any PDF document. Simply upload your file and start asking questions right away",
+    img: "/thumbnail.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg",],
+    link: "https://plumeflower.netlify.app/",
+  },
+  {
+    id: 2,
     title: "Keystate - Want to find your Dream Home?",
     des: "Simplify the process for agents and customers to update, look, find, and sell their properties.",
     img: '/Keystate3.png',
@@ -80,7 +88,7 @@ export const projects = [
     link: "poetic-profiterole-0d157a.netlify.app",
   },
   {
-    id: 2,
+    id: 3,
     title: "AspieByte",
     des: "Developed a specialized learning platform tailored specifically for individuals with autism spectrum disorder, integrating a stress detection mechanism that halts study sessions upon reaching predefined stress thresholds.",
     img: '/AspieByte3.jpg',
@@ -88,21 +96,13 @@ export const projects = [
     link: "github.com/Harsh1032/aspieByte",
   },
   {
-    id: 3,
+    id: 4,
     title: "Cryptoverse",
     des: "A platform providing comprehensive access to information on up to 100 cryptocurrencies.",
     img: '/Crypto2.png',
     iconLists: ["/re.svg", "/tail.svg"],
     link: "github.com/Harsh1032/Cryptoverse",
-  },
-  // {
-  //   id: 4,
-  //   title: "Animated Apple Iphone 3D Website",
-  //   des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-  //   img: "/p4.svg",
-  //   iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-  //   link: "https://github.com/adrianhajdin/iphone",
-  // },
+  }
 ];
 
 export const testimonials = [
