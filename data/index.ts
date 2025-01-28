@@ -187,13 +187,13 @@ export const workExperience = [
     thumbnail: "/exp2.svg",
     
   },
-  // {
-  //   id: 3,
-  //   title: "Freelance App Dev Project",
-  //   desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-  //   className: "md:col-span-2", // change to md:col-span-2
-  //   thumbnail: "/exp3.svg",
-  // },
+  {
+    id: 3,
+    title: "Software Developer Intern",
+    desc: "Designed and implemented an API integrated with an Oracle database to retrieve and update data dynamically, enabling real-time information display and editing within Microsoft Teams Adaptive Cards and Copilot, based on user input.",
+    className: "md:col-span-2", // change to md:col-span-2
+    thumbnail: "/exp3.svg",
+  },
   // {
   //   id: 4,
   //   title: "Lead Frontend Developer",
