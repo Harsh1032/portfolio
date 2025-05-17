@@ -172,15 +172,23 @@ export const companies = [
 ];
 
 export const workExperience = [
+  
   {
     id: 1,
+    title: "Full-stack Developer",
+    desc: "Developing mobile applications, Microsoft Declarative Agents, and Oracle APEX backend services.",
+    className: "md:col-span-2",
+    thumbnail: "/exp4.svg",
+  },
+  {
+    id: 2,
     title: "Frontend Developer Intern",
     desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
-    id: 2,
+    id: 3,
     title: "Data Analyst and Software Development Intern",
     desc: "Engaged in the development and enhancement of a mobile application with a user base exceeding 17 million downloads across various platforms.",
     className: "md:col-span-2", // change to md:col-span-2
@@ -188,19 +196,12 @@ export const workExperience = [
     
   },
   {
-    id: 3,
+    id: 4,
     title: "Software Developer Intern",
     desc: "Designed and implemented an API integrated with an Oracle database to retrieve and update data dynamically, enabling real-time information display and editing within Microsoft Teams Adaptive Cards and Copilot, based on user input.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
-  // {
-  //   id: 4,
-  //   title: "Lead Frontend Developer",
-  //   desc: "Developed and maintained user-facing features using modern frontend technologies.",
-  //   className: "md:col-span-2",
-  //   thumbnail: "/exp4.svg",
-  // },
 ];
 
 export const socialMedia = [
