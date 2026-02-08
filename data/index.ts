@@ -81,6 +81,14 @@ export const projects = [
   },
   {
     id: 2,
+    title: "Pulse",
+    des: "A Real-Time Event Monitoring SaaS",
+    img: '/pulse.png',
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    link: "pulsepanda.netlify.app",
+  },
+  {
+    id: 3,
     title: "Keystate - Want to find your Dream Home?",
     des: "Simplify the process for agents and customers to update, look, find, and sell their properties.",
     img: '/Keystate3.png',
@@ -88,20 +96,12 @@ export const projects = [
     link: "poetic-profiterole-0d157a.netlify.app",
   },
   {
-    id: 3,
+    id: 4,
     title: "AspieByte",
     des: "Developed a specialized learning platform tailored specifically for individuals with autism spectrum disorder, integrating a stress detection mechanism that halts study sessions upon reaching predefined stress thresholds.",
     img: '/AspieByte3.jpg',
     iconLists: ["/re.svg", "/tail.svg",  "/mongodb.svg", "/nodejs.png", "/python.svg"],
     link: "github.com/Harsh1032/aspieByte",
-  },
-  {
-    id: 4,
-    title: "Cryptoverse",
-    des: "A platform providing comprehensive access to information on up to 100 cryptocurrencies.",
-    img: '/Crypto2.png',
-    iconLists: ["/re.svg", "/tail.svg"],
-    link: "github.com/Harsh1032/Cryptoverse",
   }
 ];
 
@@ -175,7 +175,7 @@ export const workExperience = [
   
   {
     id: 1,
-    title: "Full-stack Developer",
+    title: "Full-stack Developer(Tech-Lead)",
     desc: "Developing mobile applications, Microsoft Declarative Agents, and Oracle APEX backend services.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
