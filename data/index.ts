@@ -5,7 +5,6 @@ export const navItems = [
   { name: "Contact", link: "#contact" },
 ];
 
-
 export const gridItems = [
   {
     id: 1,
@@ -73,36 +72,42 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Plume - A Modern Fullstack SaaS-Platform",
-    des: "Plume allows you to have conversations with any PDF document. Simply upload your file and start asking questions right away",
-    img: "/thumbnail.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg",],
-    link: "plumeflower.netlify.app",
+    title: "KCoco Craft",
+    des: "ourbloomcafe.netlify.app",
+    img: "/Untitled4.png",
+    iconLists: [
+      "/re.svg",
+      "/tail.svg",
+    ],
+    link: "ourcococraft.netlify.app",
   },
   {
     id: 2,
-    title: "Pulse",
-    des: "A Real-Time Event Monitoring SaaS",
-    img: '/pulse.png',
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
-    link: "pulsepanda.netlify.app",
+    title: "Bloom",
+    des: "Bloom Cafe is a modern coffee website built to showcase coffee products, tumblers, and the brand’s cozy café identity.",
+    img: "/Untitled2.png",
+    iconLists: [
+      "/re.svg",
+      "/tail.svg",
+    ],
+    link: "ourbloomcafe.netlify.app",
   },
   {
     id: 3,
-    title: "Keystate - Want to find your Dream Home?",
-    des: "Simplify the process for agents and customers to update, look, find, and sell their properties.",
-    img: '/Keystate3.png',
-    iconLists: ["/re.svg", "/tail.svg", "/mongodb.svg", "/nodejs.png", "/firebase.svg"],
-    link: "poetic-profiterole-0d157a.netlify.app",
+    title: "Plume - A Modern Fullstack SaaS-Platform",
+    des: "Plume allows you to have conversations with any PDF document. Simply upload your file and start asking questions right away",
+    img: "/thumbnail.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    link: "plumeflower.netlify.app",
   },
   {
     id: 4,
-    title: "AspieByte",
-    des: "Developed a specialized learning platform tailored specifically for individuals with autism spectrum disorder, integrating a stress detection mechanism that halts study sessions upon reaching predefined stress thresholds.",
-    img: '/AspieByte3.jpg',
-    iconLists: ["/re.svg", "/tail.svg",  "/mongodb.svg", "/nodejs.png", "/python.svg"],
-    link: "github.com/Harsh1032/aspieByte",
-  }
+    title: "Pulse",
+    des: "A Real-Time Event Monitoring SaaS",
+    img: "/pulse.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    link: "pulsepanda.netlify.app",
+  },
 ];
 
 export const testimonials = [
@@ -172,7 +177,6 @@ export const companies = [
 ];
 
 export const workExperience = [
-  
   {
     id: 1,
     title: "Full-stack Developer(Tech-Lead)",
@@ -193,7 +197,6 @@ export const workExperience = [
     desc: "Engaged in the development and enhancement of a mobile application with a user base exceeding 17 million downloads across various platforms.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
-    
   },
   {
     id: 4,
@@ -208,11 +211,11 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    link: "https://github.com/Harsh1032"
+    link: "https://github.com/Harsh1032",
   },
   {
     id: 3,
     img: "/link.svg",
-    link: "https://www.linkedin.com/in/harsh-chamola/"
+    link: "https://www.linkedin.com/in/harsh-chamola/",
   },
 ];
